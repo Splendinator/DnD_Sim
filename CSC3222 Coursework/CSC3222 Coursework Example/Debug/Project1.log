@@ -1,0 +1,85 @@
+﻿  Renderer.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physics.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(18): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\renderer.cpp(106): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\renderer.cpp(123): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\renderer.cpp(223): warning C4305: 'argument': truncation from 'double' to 'float'
+  PhysicsNode.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Physics.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physics.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(18): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physics.cpp(290): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physics.cpp(357): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physics.cpp(481): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Map.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(18): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.cpp(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physics.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\map.h(18): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\main.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\main.cpp(46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\main.cpp(73): warning C4305: 'initializing': truncation from 'unsigned int' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\main.cpp(114): warning C4305: '=': truncation from 'unsigned int' to 'float'
+  EntityRaider.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  EntityDragon.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  EntityArrow.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  EntityAI.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Entity.cpp
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\dominic\desktop\dnd_sim-master\dnd_sim-master\csc3222 coursework\csc3222 coursework\csc3222 coursework example\physicsnode.h(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  CollisionSquare.cpp
+  CollisionShape.cpp
+  CollisionCircle.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glew32.lib'
